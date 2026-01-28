@@ -1,5 +1,3 @@
-setwd("Z:/Projects/SideProjects/ProjectDormanetal/Revision/GitHub_nach_Revision/progression-free-survival")
-
 # 0. Dataset and libraries----
 ## 0.1 Loading libraries----
 source("./R_Code/libraries.R")

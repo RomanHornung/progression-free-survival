@@ -1,6 +1,3 @@
-setwd("Z:/Projects/SideProjects/ProjectDormanetal/Revision/GitHub_nach_Revision_FINAL/progression-free-survival")
-
-
 ## ---------- Models selected using AIC and BIC ----------
 
 # 0. Import data, libraries and functions----

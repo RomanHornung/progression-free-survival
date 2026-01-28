@@ -1,5 +1,3 @@
-setwd("/nfsmb/koll/hornung/Projects/SideProjects/ProjectDormanetal/Revision/GitHub_nach_Revision/progression-free-survival")
-
 ## ===== Repeated nested CV for LASSO–Cox with MI-separation (C-index + IBS) =====
 
 # 0. Import data, libraries and functions----
