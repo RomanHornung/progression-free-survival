@@ -1,6 +1,5 @@
 # 0. Data, libraries and functions----
 ## 0.1 Loading data----
-#load(file = "./Data/prep.RData")
 load(file = "./Data/pseudo_data.RData")
 
 ## 0.2 Loading functions----
@@ -11,6 +10,9 @@ source("./R_Code/libraries.R")
 
 ## 0.4 Loading graphical values----
 source("./R_Code/graphic_parameters.R")
+
+# Convert tibble to data.frame:
+df <- as.data.frame(df)
 
 # 1. Validation of Model----
 #### Formula for the saturated model----

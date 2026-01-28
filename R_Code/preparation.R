@@ -1,10 +1,12 @@
+setwd("Z:/Projects/SideProjects/ProjectDormanetal/Revision/GitHub_nach_Revision/progression-free-survival")
+
 # 0. Dataset and libraries----
 ## 0.1 Loading libraries----
 source("./R_Code/libraries.R")
 
 ## 0.2 Loading dataset----
-#df <- read_excel("./../Data/Blutwerte Score.xlsx", skip = 1)
-#df <- as.data.frame(df)
+# df <- read_excel("./Data/Blutwerte_PFS.xlsx", skip = 1)
+# df <- as.data.frame(df)
 load(file = "./Data/pseudo_data.RData")
 
 # 1.  Preparation----
